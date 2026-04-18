@@ -1,0 +1,28 @@
+WARANGAL OA - 4G Daily DV Alert
+
+ETURUNAGARAM
+- Total Sites Analysed: 31
+- Today DV: 3652.44 GB
+- Zero Sector Sites: 3
+- Low Sector Sites: 20
+- Advise Marketing Campaign: 3
+
+NARSAMPET
+- Total Sites Analysed: 48
+- Today DV: 4198.83 GB
+- Zero Sector Sites: 2
+- Low Sector Sites: 24
+- Advise Marketing Campaign: 17
+
+PARKAL
+- Total Sites Analysed: 23
+- Today DV: 766.24 GB
+- Zero Sector Sites: 2
+- Low Sector Sites: 14
+- Advise Marketing Campaign: 12
+
+MULUGU
+- Total Sites Analysed: 16
+- Today DV: 1047.35 GB
+- Low Sector Sites: 12
+- Advise Marketing Campaign: 8
