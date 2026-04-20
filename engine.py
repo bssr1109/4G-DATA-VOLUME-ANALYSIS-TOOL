@@ -12,11 +12,24 @@ from typing import Dict, List
 import numpy as np
 import pandas as pd
 
-TARGET_SDCAS = ["ETURUNAGARAM", "NARSAMPET", "PARKAL", "MULUGU"]
+TARGET_SDCAS = [
+    "JANGAON",
+    "WARANGAL",
+    "MAHABUBABAD",
+    "PARKAL",
+    "WARDHANNAPET",
+    "MULUGU",
+    "NARSAMPET",
+    "ETURUNAGARAM",
+    "CHERIAL",
+]
+
 SDCA_NORMALIZATION = {
     "ETURNAGARAM": "ETURUNAGARAM",
     "ETUR": "ETURUNAGARAM",
     "NARSAMPETA": "NARSAMPET",
+    "MAHABUBABAD ": "MAHABUBABAD",
+    "PARKAL ": "PARKAL",
 }
 CAT_BANDS = {
     "CAT-A": ["B28"],
